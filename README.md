@@ -1,5 +1,5 @@
 # Power-BI-Sales-Report1
-🚀 Power BI Project: Interactive Sales Performance Dashboard
+
 📝 Overview
 This repository hosts a complete Power BI Desktop file (.pbix) that contains an interactive Sales Performance Dashboard. The project demonstrates end-to-end business intelligence skills, covering data sourcing, modeling, custom measure creation using DAX, and the design of an impactful, user-friendly visualization layer for sales teams and leadership.
 
