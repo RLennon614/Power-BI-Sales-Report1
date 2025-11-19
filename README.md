@@ -19,10 +19,13 @@ Data Modeling: Establishing clear relationships between fact tables (sales) and 
 DAX Measures: Creating complex custom measures and calculated columns using Data Analysis Expressions (DAX) for metrics such as:
 
 Total Sales (e.g., SUM('Sales'[Revenue]))
+<img width="549" height="295" alt="image" src="https://github.com/user-attachments/assets/9d50f6e1-9b58-4b2c-adbf-60571f40bed4" />
 
 Year-Over-Year (YoY) Growth
+<img width="570" height="256" alt="image" src="https://github.com/user-attachments/assets/4b4083fe-d74c-4979-b37f-32f06f49e45a" />
 
 Moving Averages or Cumulative Totals
+<img width="437" height="249" alt="image" src="https://github.com/user-attachments/assets/d7ab8a9a-5caf-4577-9584-a2ae3b8d72c0" />
 
 Profit Margin
 
